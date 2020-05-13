@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d06d79c1-fe21-4394-967e-34cc02dc2c13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="5.4_FWVGA_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Guzik" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Guzik" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Guzik" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Guzik" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Guzik" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bIlSjqFPLpNeCzPVRL6ZlJ7btj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.guzik" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExampleUnitTest.clickGuzik">
+    <configuration name="ExampleUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guzik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guzik" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guzik.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Guzik:app [assembleAndroidTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleAndroidTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guzik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guzik" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guzik.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.clickGuzik" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guzik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guzik" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guzik.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="clickGuzik" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExampleUnitTest.clickGuzik" />
+        <item itemvalue="Android JUnit.ExampleUnitTest" />
+        <item itemvalue="Gradle.Guzik:app [assembleAndroidTest]" />
+        <item itemvalue="JUnit.ExampleUnitTest.addition_isCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06d79c1-fe21-4394-967e-34cc02dc2c13" name="Default Changelist" comment="" />
+      <created>1588274698764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588274698764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom" timestamp="1589381858629">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1589381858629" />
+    <state width="1398" height="283" key="GridCell.Tab.0.center" timestamp="1589381858628">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1589381858628" />
+    <state width="1398" height="283" key="GridCell.Tab.0.left" timestamp="1589381858628">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1589381858628" />
+    <state width="1398" height="283" key="GridCell.Tab.0.right" timestamp="1589381858628">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1589381858628" />
+    <state width="1398" height="170" key="GridCell.Tab.1.bottom" timestamp="1588844681103">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.1.bottom/0.23.1440.810@0.23.1440.810" timestamp="1588844681103" />
+    <state width="1398" height="170" key="GridCell.Tab.1.center" timestamp="1588844681102">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.1.center/0.23.1440.810@0.23.1440.810" timestamp="1588844681102" />
+    <state width="1398" height="170" key="GridCell.Tab.1.left" timestamp="1588844681102">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.1.left/0.23.1440.810@0.23.1440.810" timestamp="1588844681102" />
+    <state width="1398" height="170" key="GridCell.Tab.1.right" timestamp="1588844681102">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.1.right/0.23.1440.810@0.23.1440.810" timestamp="1588844681102" />
+    <state width="720" height="405" key="XDebugger.FullValuePopup" timestamp="1588763237725">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="720" height="405" key="XDebugger.FullValuePopup/0.23.1440.810@0.23.1440.810" timestamp="1588763237725" />
+    <state x="420" y="63" width="600" height="729" key="find.popup" timestamp="1588841604162">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="420" y="63" width="600" height="729" key="find.popup/0.23.1440.810@0.23.1440.810" timestamp="1588841604162" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1588773365482">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.810@0.23.1440.810" timestamp="1588773365482" />
+  </component>
+</project>
